@@ -1,0 +1,5 @@
+# ignore extraneous csv files downloaded by script
+*.csv
+
+# ignore notebook checkpoints
+.ipynb_checkpoints/
